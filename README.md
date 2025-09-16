@@ -28,4 +28,4 @@ python main.py
 
 The scraped content will be saved as a markdown file in the `scrapes` directory.
 
-License is the Unlicensed License, check LICENSE
+License is the Unlicense license, check LICENSE
