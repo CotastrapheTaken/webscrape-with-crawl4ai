@@ -7,7 +7,7 @@ This project is a simple web scraper that uses the `crawl4ai` (https://github.co
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/CotastrapheTaken/webscraping-test.git
+git clone https://github.com/CotastrapheTaken/webscrape-with-crawl4ai.git
 ```
 
 2. Install the dependencies:
