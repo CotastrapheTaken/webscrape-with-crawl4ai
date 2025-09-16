@@ -1,4 +1,4 @@
-# Web Scraping Project
+# Web Scraping Project Using Crawl4AI
 
 This project is a simple web scraper that uses the `crawl4ai` (https://github.com/unclecode/crawl4ai) library to scrape a website and save the content as a markdown file.
 
