@@ -5,7 +5,7 @@ from datetime import datetime
 
 from crawl4ai import AsyncWebCrawler
 
-URL = "https://techcrunch.com/"
+URL = "https://techcrunch.com/"  # <-- replace your desired website here
 
 
 def safe_name_from_url(url: str) -> str:
